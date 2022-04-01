@@ -1,4 +1,5 @@
 Tsunami Damage Prediction Model 🌊
+
 Predicting damage of a tsunami depending on its characteristics.
 This project required me to formulate, research and present a mathematical and probabilistic model of attributes relating to a computer simulation with a team of 4 (me included) people.
 
